@@ -1,3 +1,3 @@
 # hello-world
 my first repository
-Now i knoe what taco is
+Now i know what taco is
